@@ -2,7 +2,7 @@
 
 Dashboard d'administration interne et autonome pour la gestion des accès Wi-Fi Zone (**WIFI MAUPASSANT**). 
 
-L'application permet d'enregistrer les clients, d'attribuer des forfaits (1h, 24h, 7j, 30j), de calculer automatiquement l'heure exacte d'expiration et d'envoyer une alerte automatique 24/7 sur un salon **Discord** dès qu'un accès prend fin.
+L'application permet d'enregistrer les clients, d'attribuer des forfaits ( 24h, 7j, 30j), de calculer automatiquement l'heure exacte d'expiration et d'envoyer une alerte automatique 24/7 sur un salon **Discord** dès qu'un accès prend fin.
 
 ---
 
